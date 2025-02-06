@@ -1,12 +1,6 @@
 <h1 align="center">Hi , I'm Thiwanka Lakshan</h1>
 <h3 align="center">A passionate Undergraduating developer from Sri Lanka</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwankalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankalakshan" /> </p>
-
-
-
 - I’m currently learning **.Net**
 
 -  How to reach me **thiwankalakshan007@gmail.com**
