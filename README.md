@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Thiwanka Lakshan</h1>
 <h3 align="center">A passionate Undergraduating developer from Sri Lanka</h3>
 
-- I’m currently learning **.Net**
+- I’m currently learning **MERN STACK**
 
 -  How to reach me **thiwankalakshan007@gmail.com**
 
