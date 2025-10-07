@@ -18,10 +18,6 @@
   <img src="code.gif" alt="GIF of code" width="500" height="700"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thiwanka lakshan bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiwanka lakshan bandara" height="30" width="40" /></a>
@@ -33,7 +29,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiwankaLakshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
