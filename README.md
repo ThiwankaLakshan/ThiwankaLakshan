@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Thiwanka+Lakshan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -21,7 +21,17 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiwankalakshan&show_icons=true&locale=en" alt="thiwankalakshan" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiwankaLakshan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThiwankaLakshan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiwankaLakshan&show_icons=true" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
