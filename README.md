@@ -14,8 +14,8 @@
 
 -  How to reach me **thiwankalakshan007@gmail.com**
 
-<p align="right">
-  <img src="code.gif" alt="GIF of code" width="300" height="400"/>
+<p align="center">
+  <img src="code.gif" alt="GIF of code" width="700" height="900"/>
 </p>
 
 
