@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Thiwanka+Lakshan....;Nice+to+meet+you!&center=true&size=30">
@@ -10,6 +14,8 @@
 
 -  How to reach me **thiwankalakshan007@gmail.com**
 
+<img src="images/your-gif-name.gif" width="400" height="250" alt="Your alt text here">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thiwanka lakshan bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiwanka lakshan bandara" height="30" width="40" /></a>
@@ -21,17 +27,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiwankaLakshan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiwankaLakshan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiwankaLakshan&show_icons=true" />
-</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
