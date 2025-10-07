@@ -18,6 +18,9 @@
   <img src="code.gif" alt="GIF of code" width="500" height="700"/>
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
