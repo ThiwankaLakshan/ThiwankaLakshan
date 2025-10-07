@@ -4,7 +4,7 @@
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Thiwanka+Lakshan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; I+am+Thiwanka+Lakshan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 -  How to reach me **thiwankalakshan007@gmail.com**
 
 <p align="right">
-  <img src="images/code.gif" alt="GIF of code" />
+  <img src="code.gif" alt="GIF of code" />
 </p>
 
 
