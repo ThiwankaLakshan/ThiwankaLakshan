@@ -13,7 +13,7 @@
 
 <p align="left"> <ig src="https://komarev.com/ghpvc/?username=thiwankaLakshan&label=Profile%20views&color=b40e5e&style=flat" alt="thiwankaLakshan" /> </p>
 
-<img align="right" alt="Coding" width="350" height="400" src="code.gif">
+<img align="right" alt="Coding" width="350" height="500" src="code.gif">
 
 
 - I’m currently learning **MERN** Stack
@@ -86,5 +86,4 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/thiwanka-lakshan-bb6b43352/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 <a href="https://fb.com/thiwanka lakshan bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiwanka lakshan bandara" height="40" width="52" /></a>
-<a href="https://instagram.com/thiwanka_lakshan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiwanka_lakshan_07" height="40" width="52" /></a>
 </p>
