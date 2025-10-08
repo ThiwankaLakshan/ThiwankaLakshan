@@ -22,7 +22,7 @@
 
 
 <h3 align="center">🚀 My Main Hustle</h3>
-<div align="center">
+<div align="left">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -45,7 +45,7 @@
            
 </div>
 <h3 align="center">🧠 Basics & Foundations</h3>
-<div align="center">
+<div align="left">
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
