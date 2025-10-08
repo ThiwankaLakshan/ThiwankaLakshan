@@ -13,7 +13,7 @@
 
 <p align="left"> <ig src="https://komarev.com/ghpvc/?username=thiwankaLakshan&label=Profile%20views&color=b40e5e&style=flat" alt="thiwankaLakshan" /> </p>
 
-<img align="right" alt="Coding" width="350" height="600" src="code.gif">
+<img align="right" alt="Coding" height="300" src="code.gif">
 
 
 - I’m currently learning **MERN** Stack
