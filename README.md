@@ -28,10 +28,10 @@
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiwankaLakshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<p align="center"><b>✍️ Random Dev Quote </b> </p>
+<h3 align="center">✍️ Random Dev Quote  </h3>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p>
-<p align="center"> <b>🔝 Top Contributed Repo</b> </p>
+<h3 align="center">🔝 Top Contributed Repo </h3>
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=thiwankaLakshan&limit=5&theme=dark&combine_all_yearly_contributions=true"/></p>
 
