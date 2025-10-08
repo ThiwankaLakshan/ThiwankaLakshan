@@ -76,12 +76,12 @@
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=thiwankaLakshan&limit=5&theme=react&combine_all_yearly_contributions=true"/></p>
 <br>
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=react" alt="GitHub Streak" /></a> </p>
 <br>
 
 <h3 align="center">✍️ Random Dev Quote  </h3>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react"/></p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=redical"/></p>
 
 
 <h2 align="center">Connect with me:</h2>
