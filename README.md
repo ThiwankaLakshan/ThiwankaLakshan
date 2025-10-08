@@ -2,11 +2,10 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <br>
-<h1 align="center">Hi 👋, I'm THIWANKA</h1>
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;.I+am+Thiwanka....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
