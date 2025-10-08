@@ -68,21 +68,20 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiwankaLakshan&radius=16&theme=react-dark&area=true&order=5&custom_title=Roshan's%20Contribution%20Graph&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiwankaLakshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=thiwankaLakshan&locale=en&mode=daily&theme=react-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiwankaLakshan&radius=16&theme=react&area=true&order=5&custom_title=Thiwanka's%20Contribution%20Graph&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiwankaLakshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=thiwankaLakshan&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <h3 align="center">🔝 Top Contributed Repo </h3>
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=thiwankaLakshan&limit=5&theme=react-dark&combine_all_yearly_contributions=true"/></p>
+<img src="https://github-contributor-stats.vercel.app/api?username=thiwankaLakshan&limit=5&theme=react&combine_all_yearly_contributions=true"/></p>
 <br>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiwankaLakshan&theme=transparent" alt="GitHub Streak" /></a> </p>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiwankaLakshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <h3 align="center">✍️ Random Dev Quote  </h3>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark"/></p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react"/></p>
 
 
 <h2 align="center">Connect with me:</h2>
