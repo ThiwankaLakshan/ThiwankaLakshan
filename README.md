@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate Undergraduating developer from Sri Lanka</h3>
+<h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
 <p align="left"> <ig src="https://komarev.com/ghpvc/?username=thiwankaLakshan&label=Profile%20views&color=b40e5e&style=flat" alt="thiwankaLakshan" /> </p>
 
