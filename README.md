@@ -9,14 +9,14 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate Backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <ig src="https://komarev.com/ghpvc/?username=thiwankaLakshan&label=Profile%20views&color=b40e5e&style=flat" alt="thiwankaLakshan" /> </p>
 
 <img align="right" alt="Coding" height="320" src="code.gif">
 
 
-- I’m currently learning **MERN** Stack
+- I’m currently learning **Blockchain**
 
 -  How to reach me **thiwankalakshan007@gmail.com**
 
@@ -24,11 +24,11 @@
 <h3 align="center">🚀 My Main Hustle</h3>
 <div align="center">
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40"/>        
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />       
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img width="12" />
@@ -38,14 +38,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
   
            
 </div>
 <h3 align="center">🧠 Basics & Foundations</h3>
-<div align="left">
+<div align="center">
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -72,9 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiwankaLakshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=3" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thiwankaLakshan&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
 </div>
-<h3 align="center">🔝 Top Contributed Repo </h3>
+<!-- <h3 align="center">🔝 Top Contributed Repo </h3>
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=thiwankaLakshan&limit=5&theme=react&combine_all_yearly_contributions=true"/></p>
+<img src="https://github-contributor-stats.vercel.app/api?username=ThiwankaLakshan&limit=5&theme=react&combine_all_yearly_contributions=true"/></p> -->
 <br>
 
 <h3 align="center">✍️ Random Dev Quote  </h3>
