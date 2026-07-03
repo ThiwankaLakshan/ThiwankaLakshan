@@ -18,7 +18,7 @@
 
 - I’m currently learning **Blockchain**
 
--  How to reach me **thiwankalakshan007@gmail.com**
+-  How to reach me **hello@thiwankalakshan.dev**
 
 
 <h3 align="center">🚀 My Main Hustle</h3>
@@ -67,7 +67,7 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiwankaLakshan&radius=16&theme=react&area=true&order=5&custom_title=Thiwanka's%20Contribution%20Graph&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiwankaLakshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=3" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiwankaLakshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=3" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=thiwankaLakshan&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
 </div>
 <!-- <h3 align="center">🔝 Top Contributed Repo </h3>
